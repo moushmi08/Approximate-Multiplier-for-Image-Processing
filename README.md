@@ -4,15 +4,6 @@ A final year B.Tech project (Electronics and Communication Engineering,
 NIT Calicut) exploring approximate multiplier architectures for
 power- and area-efficient image processing.
 
-## Team
-
-- D. Harshitha Sai (B210692EC)
-- D. Bhavya Sri (B210707EC)
-- Kavila Preethi (B210734EC)
-- Thondepu Moushmi (B210745EC)
-
-**Guide:** Dr. Ashutosh Mishra, Assistant Professor, ECED, NIT Calicut
-
 ## About the Project
 
 Conventional multipliers are accurate but power- and area-hungry, which
